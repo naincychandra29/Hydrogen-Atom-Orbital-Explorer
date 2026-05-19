@@ -1,9 +1,3 @@
-# To Run this Code: 
-#         pip install numpy
-#         pip install matplotlib
-#         pip install scipy
-# MAKE SURE to install these libraries before running
-            
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.special import sph_harm, genlaguerre
